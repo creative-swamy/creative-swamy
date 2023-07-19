@@ -3,8 +3,8 @@
   - Solving interesting problems using AI, Deep learning, Machine learning and Data science.
   - Some interesting work I have done is part of my private repositories
   - Published a book : [Two Flames](https://www.amazon.ca/Flames-Marulasidda-swamy-Kibbanahalli-Shivalingappa-ebook/dp/B0BGYMGTJB).
-  - 
-  - ![Two Flames](https://m.media-amazon.com/images/I/51LhrrHGPBL._SY250_.jpg)
+  
+  ![Two Flames](https://m.media-amazon.com/images/I/51LhrrHGPBL._SY250_.jpg)
 
 - I’m currently learning
   - Continuous learning
