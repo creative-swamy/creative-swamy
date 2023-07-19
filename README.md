@@ -5,9 +5,9 @@
 1. Some interesting work I have done is part of my private repositories
 
 - I’m currently learning
- - Contnious learning
- - Generative models
- - Debug custom models using tensorboard
+  - Contnious learning
+  - Generative models
+  - Debug custom models using tensorboard
 
 <!--
 **creative-swamy/creative-swamy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
