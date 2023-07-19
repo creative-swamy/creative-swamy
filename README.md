@@ -1,8 +1,8 @@
-### Hi there 👋 I am [Siddu](https://www.linkedin.com/in/swamy-ks-b3739955/)
+### Hi there 👋 I am [Siddu](https://www.linkedin.com/in/swamy-ks-b3739955/).
 - What I do
   - Solving interesting problems using AI, Deep learning, Machine learning and Data science.
   - Some interesting work I have done is part of my private repositories
-  - Published a book : [Two Flames](https://www.amazon.ca/Flames-Marulasidda-swamy-Kibbanahalli-Shivalingappa-ebook/dp/B0BGYMGTJB)
+  - Published a book : [Two Flames](https://www.amazon.ca/Flames-Marulasidda-swamy-Kibbanahalli-Shivalingappa-ebook/dp/B0BGYMGTJB).
 
 - I’m currently learning
   - continuous learning
