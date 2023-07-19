@@ -5,7 +5,7 @@
   - Published a book : [Two Flames](https://www.amazon.ca/Flames-Marulasidda-swamy-Kibbanahalli-Shivalingappa-ebook/dp/B0BGYMGTJB).
 
 - I’m currently learning
-  - continuous learning
+  - Continuous learning
   - Generative models
   - Debug custom models using tensorboard
   - Computer Vision
