@@ -7,6 +7,7 @@
   - Contnious learning
   - Generative models
   - Debug custom models using tensorboard
+  - Computer Vision
 
 <!--
 **creative-swamy/creative-swamy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
