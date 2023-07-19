@@ -5,9 +5,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 What I do
-  Solving interesting problems using AI, Deep learning, Machine learning and Data science.
-  Some interesting work I have done is part of my private repositories
+### 🔭 What I do
+  ### Solving interesting problems using AI, Deep learning, Machine learning and Data science.
+  ### Some interesting work I have done is part of my private repositories
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
