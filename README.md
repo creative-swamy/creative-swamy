@@ -4,6 +4,10 @@
 1. Solving interesting problems using AI, Deep learning, Machine learning and Data science.
 1. Some interesting work I have done is part of my private repositories
 
+- I’m currently learning
+1. Contnious learning
+1. Generative models
+1. Debug custom models using tensorboard
 
 <!--
 **creative-swamy/creative-swamy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
