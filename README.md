@@ -10,7 +10,7 @@
   - Generative models
   - Debug custom models using tensorboard
   - Computer Vision
-- Experienced in
+- Experience :
   - More than 10 years of experience in research, software development and testing.
   - More than 3 years of experience in AI operations and AI research
   - More than 5 years of experience in team management and project management.
